@@ -1,4 +1,7 @@
+.vs
 .vscode
 __pycache__
+bee
+beeTest
 bee.*
 test_bee.*
